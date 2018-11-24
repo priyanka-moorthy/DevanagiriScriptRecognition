@@ -1,6 +1,6 @@
 # DevanagiriScriptRecognition
 
-    The code successfully predicts a Devanagiri hand written characters
+    The code successfully predicts Devanagiri hand written characters
     
 # Google colab link
     https://colab.research.google.com/drive/1UueOLhxR52-LnHFtnRGph7yc4-i4z5xo#scrollTo=1-GtFY-CGo2c
